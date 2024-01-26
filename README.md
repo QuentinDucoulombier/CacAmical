@@ -1,4 +1,4 @@
-# Cacamical - A Fun Mapping Application
+# Map It Out - A Fun Mapping Application
 
 ---
 
