@@ -1,7 +1,7 @@
-package cacamical.caca;
+package mapitout.caca;
 
-import cacamical.user.User;
-import cacamical.user.UserRepository;
+import mapitout.user.User;
+import mapitout.user.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

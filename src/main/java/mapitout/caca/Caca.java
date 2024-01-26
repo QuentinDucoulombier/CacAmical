@@ -1,8 +1,8 @@
-package cacamical.caca;
+package mapitout.caca;
 
 import java.util.Date;
 
-import cacamical.user.User;
+import mapitout.user.User;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

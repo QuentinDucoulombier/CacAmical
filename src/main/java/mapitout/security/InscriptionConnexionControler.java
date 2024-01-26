@@ -1,4 +1,4 @@
-package cacamical.security;
+package mapitout.security;
 
 import java.util.Optional;
 
@@ -7,8 +7,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import cacamical.user.User;
-import cacamical.user.UserService;
+import mapitout.user.User;
+import mapitout.user.UserService;
 
 @Controller
 public class InscriptionConnexionControler {

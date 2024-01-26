@@ -8,37 +8,37 @@ Email: ducoulombi@cy-tech.fr, fauchernoe@cy-tech.fr
 
 ---
 
-Cacamical is a mapping application that allows users to mark and share their favorite locations on a map. Whether it's a beautiful park, a great restaurant, or a hidden gem, Cacamical helps you keep track of your favorite places and share them with others.
+Map It Out is a mapping application that allows users to mark and share their favorite locations on a map. Whether it's a beautiful park, a great restaurant, or a hidden gem, Map It Out helps you keep track of your favorite places and share them with others.
 
 ## Prerequisites
 
-Before running Cacamical, you need to have the following prerequisites:
+Before running Map It Out, you need to have the following prerequisites:
 
 - **Java Development Kit (JDK)**: Make sure you have Java JDK 17 or higher installed on your system.
 
 ## Getting Started
 
-Follow these steps to get Cacamical up and running:
+Follow these steps to get Map It Out up and running:
 
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
 
    ```bash
-   git clone https://github.com/your-username/cacamical.git
+   git clone https://github.com/QuentinDucoulombier/mapitout.git
    ```
 2. **Set Up the Database**: Verify the database configuration in application.properties with your database settings.
 
 3. **Run the application**:
 
     ```bash
-    cd CacAmical
+    cd MapItOut
     ./mvnw spring-boot:run
     ```
 
-4. **Access Cacamical**: Open your web browser and navigate to http://localhost:8080 to start using Cacamical.
+4. **Access Map It Out**: Open your web browser and navigate to http://localhost:8080 to start using Map It Out.
 
 ## Features
 
-Cacamical offers a range of exciting features to enhance your mapping experience:
+Map It Out offers a range of exciting features to enhance your mapping experience:
 
 - **User Authentication**: Create an account and log in securely to access all the application's features.
 
@@ -56,4 +56,4 @@ Cacamical offers a range of exciting features to enhance your mapping experience
 
 - **Comments**: Engage with the community by leaving comments on various points. Share your thoughts and experiences with others.
 
-Enjoy exploring, sharing, and connecting through Cacamical!
+Enjoy exploring, sharing, and connecting through Map It Out!

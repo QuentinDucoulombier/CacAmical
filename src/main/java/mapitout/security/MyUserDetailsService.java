@@ -1,4 +1,4 @@
-package cacamical.security;
+package mapitout.security;
 
 import java.util.ArrayList;
 import java.util.Optional;
@@ -9,8 +9,8 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import cacamical.user.User;
-import cacamical.user.UserRepository;
+import mapitout.user.User;
+import mapitout.user.UserRepository;
 
 @Service
 public class MyUserDetailsService implements UserDetailsService {

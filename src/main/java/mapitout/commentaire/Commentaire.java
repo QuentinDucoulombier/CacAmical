@@ -1,11 +1,11 @@
-package cacamical.commentaire;
+package mapitout.commentaire;
 
 import jakarta.persistence.*;
 
 import java.util.Date;
 
-import cacamical.caca.Caca;
-import cacamical.user.User;
+import mapitout.caca.Caca;
+import mapitout.user.User;
 
 @Entity
 public class Commentaire {

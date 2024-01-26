@@ -1,5 +1,5 @@
-package cacamical.commentaire;
-import cacamical.caca.Caca;
+package mapitout.commentaire;
+import mapitout.caca.Caca;
 import org.springframework.stereotype.Repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 

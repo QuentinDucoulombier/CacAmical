@@ -1,4 +1,4 @@
-package cacamical.user;
+package mapitout.user;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

@@ -1,10 +1,10 @@
-package cacamical.like;
+package mapitout.like;
 
 
 import java.util.Date;
 
-import cacamical.caca.Caca;
-import cacamical.user.User;
+import mapitout.caca.Caca;
+import mapitout.user.User;
 import jakarta.persistence.*;
 
 @Entity

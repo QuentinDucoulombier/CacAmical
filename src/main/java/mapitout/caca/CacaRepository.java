@@ -1,4 +1,4 @@
-package cacamical.caca;
+package mapitout.caca;
 
 import org.springframework.stereotype.Repository;
 import org.springframework.data.jpa.repository.JpaRepository;

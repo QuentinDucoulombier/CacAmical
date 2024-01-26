@@ -1,4 +1,4 @@
-package cacamical.user;
+package mapitout.user;
 
 import java.security.Principal;
 import java.util.List;

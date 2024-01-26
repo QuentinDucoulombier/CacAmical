@@ -1,7 +1,7 @@
-package cacamical.like;
+package mapitout.like;
 
-import cacamical.caca.Caca;
-import cacamical.user.User;
+import mapitout.caca.Caca;
+import mapitout.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
